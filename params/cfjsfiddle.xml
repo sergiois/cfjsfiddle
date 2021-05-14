@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="fieldparams">
+		<fieldset name="fieldparams">
+			<field
+				name="jsfiddlestyles"
+				type="textarea"
+        		default="width:100%; height: 300px;"
+				label="PLG_FIELDS_CFJSFIDDLE_PARAMS_STYLE_LABEL"
+				description="PLG_FIELDS_CFJSFIDDLE_PARAMS_STYLE_DESCRIPTION"
+			/>
+		</fieldset>
+	</fields>
+</form>
