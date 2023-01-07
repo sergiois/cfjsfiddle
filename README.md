@@ -18,6 +18,9 @@ To integrate the code in the article you need to enter the URL of JSFiddle:
 ### Version 1.0.0 [2021-05-14]
 * **[Added]** Iframe option whith customization CSS Style
 
+### Version 1.1.0 [2023-01-07]
+* **[Added]** Joomla 4 Compatibility
+
 * * *
 
 ## Copyright & License

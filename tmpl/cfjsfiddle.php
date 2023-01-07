@@ -3,7 +3,7 @@
  * @package     Joomla.Plugin
  * @subpackage  Fields.JSFiddle
  *
- * @copyright   Copyright (C) 2021 SergioIglesiasNET
+ * @copyright   Copyright (C) 2023 SergioIglesiasNET
  * @license     GNU General Public License v2.0
  * @author 		Sergio Iglesias (@sergiois)
  */
